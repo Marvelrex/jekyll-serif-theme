@@ -1,6 +1,9 @@
 # Jekyll Serif Theme
 
-Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.
+
+Serif is a modern business theme for Jekyll. It contains multiple content types for a typical brochure/marketing website. The theme is fully responsive, blazing fast and artfully illustrated.  
+This repository is designed to be a solid starting point for anyone who wants to quickly launch a professional-looking static site.  
+It is actively maintained, and contributions or suggestions are always welcome.  
 
 [Live Demo](https://jekyll-serif.netlify.app/) |
 [Zerostatic Themes](https://www.zerostatic.io)
